@@ -1,1 +1,3 @@
-# Image_Classifier
+- For this Year 2 project I had to build a KNN image classifier in python
+- The classifier used different similarity measures to compare images, e.g euclidean, cosine, manhattan
+- The project involved lots of data validation, manipulation and use of data structures
